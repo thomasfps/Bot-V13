@@ -1,0 +1,10 @@
+//Dans le Terminal//
+
+npm install discord.js 
+npm install fs 
+npm install ms
+npm install axios
+npm install better-hastebin
+npm install discord-fetch-all 
+npm install quick.db
+npm install dotenv
